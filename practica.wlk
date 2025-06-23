@@ -13,7 +13,7 @@ class Orco inherits Personaje {
   override method esOrco() = true
 
   override method potencialOfensivo() {
-      return fuerza * 10 //sin terminar
+      return fuerza * 10 //sin terminar--
   }
 }
 
